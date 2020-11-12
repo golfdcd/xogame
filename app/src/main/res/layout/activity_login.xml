@@ -5,17 +5,18 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="#BCAAA4"
     tools:context=".LoginActivity"
     >
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="match_parent"
+        android:layout_width="304dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="70dp"
         android:layout_marginLeft="50dp"
+        android:layout_marginTop="70dp"
         android:text="XOgame"
-        android:textColor="#FFFDFE"
+        android:textColor="#0735AA"
         android:textSize="43dp"
         android:textStyle="bold|italic"
 
